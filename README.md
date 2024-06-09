@@ -10,6 +10,11 @@ There is also a webserver to control the pi, change settings and send payloads b
 
 <br>
 
+## LAST CHANGED :
+- Update stability
+- FIx Kp for some region consoles
+- Translated some lang
+
 ## TESTED STB BOX [ Amlogic chipset ]
 [ allwinner , rockchip in future updates maybe ]
 

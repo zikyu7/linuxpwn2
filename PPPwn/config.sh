@@ -1,0 +1,12 @@
+#!/bin/bash
+INTERFACE="eth0" 
+FIRMWAREVERSION="11.00" 
+SHUTDOWN=false
+USBETHERNET=false
+PPPOECONN=true
+VMUSB=false
+DTLINK=true
+RESTMODE=true
+PPDBG=true
+TIMEOUT="5m"
+PYPWN=false

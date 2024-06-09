@@ -1,0 +1,5 @@
+[+] PPPwn++ - PlayStation 4 PPPoE RCE by theflow
+[+] args: interface=eth0 fw=1100 stage1=/boot/firmware/PPPwn/stage1_11.00.bin stage2=/boot/firmware/PPPwn/stage2_11.00.bin timeout=0 wait-after-pin=1 groom-delay=4 auto-retry=off no-wait-padi=off real_sleep=off
+
+[+] STAGE 0: Initialization
+[*] Waiting for PADI...

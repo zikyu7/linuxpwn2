@@ -3,7 +3,7 @@
 
 - THIS IS STABLE VERSION AND Need 50-150 seconds to activate but stable and support some of ps4 region 
 - If you need Light version { where is fast , lightweight for minimal linux . you can try it here : 
-<a href=https://github.com/zikyu8/tvboxpwn>ZIKYU8 LIGHT [ 30 - 80 Seconds to activate/a> <br>
+<a href=https://github.com/zikyu8/tvboxpwn>ZIKYU8 LIGHT [ 30 - 80 Seconds to activate</a> <br>
 
 This is a script to setup <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> a c++ rewrite of <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> on the raspberry pi and run <a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> on the PS4 fw 11.0, 10.01, 10.00, 9.00<br>
 It also supports internet access after pwn and access to ftp, klog and binloader servers launched by goldhen.<br>

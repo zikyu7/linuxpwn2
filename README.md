@@ -110,3 +110,18 @@ For GoldHen you need to place the goldhen.bin file onto the root of a usb drive 
 Once goldhen has been loaded for the first time it will be copied to the consoles internal hdd and the usb is no longer required.<br>
 To update goldhen just repeat the above process and the new version will be copied to the internal hdd<br>
 
+
+==== warning ====
+
+#Fix sudo [ do not use this code ]
+
+```sh
+/usr/bin/sudo 
+  chmod 4755 /usr/bin/sudo
+  chown root:root /usr/lib/sudo/sudoers.so 
+  chmod 4755 /usr/lib/sudo/sudoers.so
+  chown root:root /etc/sudoers
+  chown root:root /etc/sudoers.d /etc/sudoers.d/README  /var/lib/sudo
+```
+<br>
+

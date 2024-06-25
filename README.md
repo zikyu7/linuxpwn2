@@ -56,7 +56,7 @@ If you are login using root , do not use <br>
 ```sh
 sudo apt update
 sudo apt install git -y
-git clone https://github.com/zikyu7/tvboxpwn2
+git clone https://github.com/zikyu7/linuxpwn2
 sudo mkdir /boot/firmware/
 cd tvboxpwn
 sudo cp -r PPPwn /boot/firmware/

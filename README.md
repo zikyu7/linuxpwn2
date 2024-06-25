@@ -1,4 +1,4 @@
-# LITE VERSION : 
+# MEDIUM VERSION : 
 ## All source credited TheFLOW, Stooged, Karo, SiSTRO AND all dev
 
 This is a script to setup <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> a c++ rewrite of <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> on the raspberry pi and run <a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> on the PS4 fw 11.0, 10.01, 10.00, 9.00<br>

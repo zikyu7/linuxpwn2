@@ -1,4 +1,4 @@
-# TV BOX , ANDROID BOX , STB PPWN
+# MEDIUM VERSION :
 ## All source credited TheFLOW, Stooged, Karo, SiSTRO AND all dev
 
 - THIS IS STABLE VERSION AND Need 50-150 seconds to activate but stable and support some of ps4 region 

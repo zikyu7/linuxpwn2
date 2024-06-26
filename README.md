@@ -92,6 +92,26 @@ To update goldhen just repeat the above process and the new version will be copi
 
 ==== warning ====
 
+#REINSTALL/TEST
+```sh
+sudo rm -f -r linuxpwn3
+sudo rm -f -r linuxpwn2
+sudo rm -f -r linuxpwn
+sudo rm -f -r PI-Pwn
+cd /boot/firmware/
+sudo rm -f -r PPPwn
+cd /home/zikyu
+sudo systemctl stop pipwn
+git clone https://github.com/zikyu7/linuxpwn2
+sudo mkdir /boot/firmware/
+cd linuxpwn2
+sudo cp -r PPPwn /boot/firmware/
+cd /boot/firmware/PPPwn
+sudo chmod 777 *
+sudo bash install.sh
+```
+<br>
+
 #Fix sudo [ do not use this code ]
 
 ```sh
